@@ -1,0 +1,36 @@
+header {
+  position: relative;
+  padding: 2rem 2rem 1.5rem;
+}
+
+header .back {
+  position: absolute;
+  top: 2rem;
+  left: 2rem;
+  font-size: 0.85rem;
+  color: #666;
+  text-decoration: none;
+}
+
+header .back:hover {
+  color: #111;
+}
+
+header h1 {
+  font-size: 1.4rem;
+}
+
+.subtitle {
+  margin-top: 0.3rem;
+  font-size: 0.9rem;
+  color: #666;
+  text-align: center;
+}
+
+.week-content {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 1rem 2rem 4rem;
+  font-size: 0.95rem;
+  line-height: 1.7;
+}
